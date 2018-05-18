@@ -70,6 +70,5 @@ fastlane/readme.md
 README.md
 app/libs/
 gradle.properties
-gradle/
 gradlew
 gradlew.bat
