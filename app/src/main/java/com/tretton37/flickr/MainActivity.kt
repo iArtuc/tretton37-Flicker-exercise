@@ -31,11 +31,11 @@ class MainActivity : BaseAppCompatActivity() {
          *  layout manager to show items
          */
 
-//        ToDo(9) start new activity on item click
+//        ToDo(8) start new activity on item click
     }
 
     private fun addRecyclerPositionListener() {
-//        ToDo add PaginationScrollListener to recyclerView
+//        ToDo(13) add PaginationScrollListener to recyclerView
 
     }
 

@@ -4,6 +4,6 @@
                                              android:layout_width="match_parent"
                                              android:layout_height="wrap_content">
 
-    <!--ToDo(5) create design for each item-->
+    <!--ToDo(3) create design for each item-->
 
 </android.support.constraint.ConstraintLayout>

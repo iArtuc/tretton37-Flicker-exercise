@@ -11,7 +11,7 @@ import java.text.SimpleDateFormat
 import java.util.*
 
 
-//ToDo(7) add clickInterface to adapter constructor
+//ToDo(6) add clickInterface to adapter constructor
 class PhotoAdapter(private val items: List<PhotoItem>) :
         RecyclerView.Adapter<RecyclerView.ViewHolder>() {
 
@@ -54,9 +54,10 @@ class PhotoAdapter(private val items: List<PhotoItem>) :
             RecyclerView.ViewHolder(v) {
 
         fun bindView(item: PhotoItem) {
-//            ToDo(6) set layout data with item(PhotoItem)
+//            ToDo(5) set layout data with item(PhotoItem)
 
-//            ToDo(8) add item click send clicked data with interface
+//            ToDo(7) add item click send clicked data with interface
+
         }
     }
 

@@ -20,7 +20,7 @@
             </intent-filter>
         </activity>
 
-        <!--ToDo add activity for the new page-->
+        <!--ToDo(9) add activity for the new page-->
 
     </application>
 
